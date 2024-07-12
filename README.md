@@ -30,6 +30,7 @@
 
 - https://spectreacademy.net/course/complete-guide-to-drum-programming/
 - https://promixacademy.com/course/the-ultimate-drum-programming-course/
+- https://www.classcentral.com/subject/drum-programming
 
 ## Composing
 
