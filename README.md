@@ -26,4 +26,17 @@
 - https://sinee.de/account/mediacenter/e146204405b240d5b8e3439dcf6fa57e/overview
 
 
+## Drum Programming
+
+- https://spectreacademy.net/course/complete-guide-to-drum-programming/
+- https://promixacademy.com/course/the-ultimate-drum-programming-course/
+
+## Composing
+
+- https://spectreacademy.net/course/complete-guide-to-songwriting-harmony/
+- https://spectreacademy.net/course/complete-guide-to-songwriting-lyrics/
+- https://spectreacademy.net/course/complete-guide-to-songwriting-writing/
+- https://spectreacademy.net/course/complete-guide-to-songwriting-real-writers/
+
+
 ## Other
