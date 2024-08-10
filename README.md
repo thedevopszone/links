@@ -10,6 +10,9 @@
 - https://www.songsterr.com/
 - https://www.sheethappenspublishing.com/
 - https://jtcguitar.com/
+- https://guitarmessenger.com/courses/
+- https://www.learnmodernguitar.com/lmg-program
+
 
 ## Axe Fx
 
