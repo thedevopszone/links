@@ -12,6 +12,7 @@
 - https://jtcguitar.com/
 - https://guitarmessenger.com/courses/
 - https://www.learnmodernguitar.com/lmg-program
+- https://www.learnmodernguitar.com/
 
 
 ## Axe Fx
