@@ -13,6 +13,9 @@
 - https://guitarmessenger.com/courses/
 - https://www.learnmodernguitar.com/lmg-program
 - https://www.learnmodernguitar.com/
+- https://learn.beatobook.com/
+- https://app.beatoeartraining.com/
+- https://arpeggio.beatoguitar.com/
 
 
 ## Axe Fx
