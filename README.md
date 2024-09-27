@@ -16,6 +16,7 @@
 - https://learn.beatobook.com/
 - https://app.beatoeartraining.com/
 - https://arpeggio.beatoguitar.com/
+- https://www.all-guitar-chords.com/chords/progressions
 
 
 ## Axe Fx
