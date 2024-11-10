@@ -18,6 +18,15 @@
 - https://arpeggio.beatoguitar.com/
 - https://www.all-guitar-chords.com/chords/progressions
 
+## Guitar Plugins
+- Fortin Nameless Suite X
+- Archetype: Gojira X
+- Archetype: Mateus Asato
+- Archetype: Tim Henson
+- Archetype: Abasi
+- Fortin NTS Suite
+- 
+
 
 ## Axe Fx
 
