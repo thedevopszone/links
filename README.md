@@ -59,4 +59,7 @@
 - https://spectreacademy.net/course/complete-guide-to-songwriting-real-writers/
 
 
-## Other
+## Crypto
+
+- https://www.blockchaincenter.net/en/altcoin-season-index/
+- 
