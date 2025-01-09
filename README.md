@@ -62,4 +62,13 @@
 ## Crypto
 
 - https://www.blockchaincenter.net/en/altcoin-season-index/
-- 
+
+## Learning Blockchain Developer
+
+- https://updraft.cyfrin.io/courses/blockchain-basics/basics/best-practices?lesson_format=video
+
+## Learning REST
+
+## Learning JavaScript
+
+
