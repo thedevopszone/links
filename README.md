@@ -79,7 +79,13 @@
 - Learn Go for Beginners Crash Course: https://www.udemy.com/course/go-programming-language-crash-course/learn/lecture/26162392#overview
 - Building a module in Go: https://www.udemy.com/course/building-a-module-in-go-golang/learn/lecture/32938420#overview
 - Working with Concurrency in Go: https://www.udemy.com/course/working-with-concurrency-in-go-golang/learn/lecture/32032356#overview
-- 
+- Python, JS, & React | Build a Blockchain & Cryptocurrency: https://www.udemy.com/course/python-js-react-blockchain/learn/lecture/16589712#overview
+- Build a Blockchain and a Cryptocurrency from Scratch: https://www.udemy.com/course/build-blockchain/learn/lecture/9314190#overview
+- Build a Blockchain & Cryptocurrency  Full-Stack Edition: https://www.udemy.com/course/build-blockchain-full-stack/learn/lecture/12609562#overview
+- Golang: How to Build a Blockchain in Go Guide: https://www.udemy.com/course/golang-how-to-build-a-blockchain-in-go/learn/lecture/29488196#overview
+- Build your own Proof Of Stake Blockchain: https://www.udemy.com/course/build-your-own-proof-of-stake-blockchain/learn/lecture/23310936#overview
+- Learn JavaScript, Get Hired | The Full Bootcamp: https://www.udemy.com/course/learn-javascript-get-hired-bootcamp/learn/lecture/14135279#overview
+
 
 
 
