@@ -67,8 +67,21 @@
 
 - https://updraft.cyfrin.io/courses/blockchain-basics/basics/best-practices?lesson_format=video
 
-## Learning REST
+## Learn 2025
 
-## Learning JavaScript
+- Blockchain: https://updraft.cyfrin.io/courses/blockchain-basics/basics/best-practices?lesson_format=video
+- Solidity:   https://zerotomastery.io/courses/blockchain-developer-bootcamp/
+- Working with Microservices in Go: https://www.udemy.com/course/working-with-microservices-in-go/learn/lecture/31496156#overview
+- Building Modern Web Applications with Go: https://www.udemy.com/course/building-modern-web-applications-with-go/learn/lecture/22874987#overview
+- Building Web Applications with Go - Intermediate Level: https://www.udemy.com/course/building-web-applications-with-go-intermediate-level/learn/lecture/27057462#overview
+- Working with WebSockets in Go: https://www.udemy.com/course/working-with-websockets-in-go/learn/lecture/24906724#overview
+- Working with React and Go: https://www.udemy.com/course/working-with-react-and-go-golang/learn/lecture/34882866#overview
+- Learn Go for Beginners Crash Course: https://www.udemy.com/course/go-programming-language-crash-course/learn/lecture/26162392#overview
+- Building a module in Go: https://www.udemy.com/course/building-a-module-in-go-golang/learn/lecture/32938420#overview
+- Working with Concurrency in Go: https://www.udemy.com/course/working-with-concurrency-in-go-golang/learn/lecture/32032356#overview
+- 
+
+
+
 
 
