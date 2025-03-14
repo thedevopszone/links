@@ -62,6 +62,7 @@
 ## Crypto
 
 - https://www.blockchaincenter.net/en/altcoin-season-index/
+- https://www.bitcoinmagazinepro.com/charts/mvrv-zscore/
 
 ## Learning Blockchain Developer
 
