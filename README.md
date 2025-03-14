@@ -66,6 +66,7 @@
 - https://www.bitcoinmagazinepro.com/charts/relative-unrealized-profit--loss/
 - https://www.bitcoinmagazinepro.com/charts/pi-cycle-top-indicator/
 - https://www.bitcoinmagazinepro.com/charts/puell-multiple/
+- https://www.blockchaincenter.net/en/bitcoin-rainbow-chart/
 
 ## Learning Blockchain Developer
 
