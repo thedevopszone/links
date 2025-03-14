@@ -65,6 +65,7 @@
 - https://www.bitcoinmagazinepro.com/charts/mvrv-zscore/
 - https://www.bitcoinmagazinepro.com/charts/relative-unrealized-profit--loss/
 - https://www.bitcoinmagazinepro.com/charts/pi-cycle-top-indicator/
+- https://www.bitcoinmagazinepro.com/charts/puell-multiple/
 
 ## Learning Blockchain Developer
 
