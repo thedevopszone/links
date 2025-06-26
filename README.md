@@ -1,5 +1,10 @@
 # Links
 
+
+## AI
+
+- https://notebooklm.google.com/
+
 ## IT
 
 - https://vs-apps.de/snappass/
